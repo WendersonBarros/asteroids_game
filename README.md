@@ -1,6 +1,6 @@
-![Asteroids Game](https://github.com/user-attachments/assets/432265f6-8f36-447c-a9f8-2de754963e60)
+![Asteroids Game](https://github.com/WendersonBarros/asteroids_game/blob/main/simplescreenrecorder-2024-10-13_00.22.39(2).gif)
 
-# Pygame Asteroids Game
+# Asteroids Game
 
 A recreation of the classic Asteroids game using Pygame, inspired by [freeasteroids.org](https://freeasteroids.org/).
 
