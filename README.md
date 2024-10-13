@@ -20,20 +20,25 @@ This project is a Python implementation of the iconic Asteroids game, built usin
    ```
    git clone https://github.com/WendersonBarros/asteroids_game.git
    ```
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    
    ```
    cd asteroids_game
    ```
-5. Create a virtual environment:
+3. Create a virtual environment:
    
    ```
    python3 -m venv venv
    ```
-7. Install the required dependencies:
+4. Activate the virtual environment:
    
    ```
-   pip install pygame
+   source venv/bin/activate
+   ```
+5. Install the required dependencies:
+   
+   ```
+   pip install -r requirements.txt
    ```
 
 ## How to Play
